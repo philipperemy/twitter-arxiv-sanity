@@ -59,7 +59,9 @@ def pdf_to_thumbnail(pdf_url_path='https://arxiv.org/pdf/1902.10162v2.pdf', outp
             return im
 
     img = remove_transparency(img)
-    img.save(output_image_filename)
+    output_path = os.path.join(tmp_dir, output_image_filename)
+    img.save(output_path)
+    return output_path
 
 
 if __name__ == '__main__':

@@ -3,3 +3,7 @@ twython
 wget
 Pillow
 PyPDF2
+selenium
+beautifulsoup4
+lxml
+python-slugify
