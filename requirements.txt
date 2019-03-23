@@ -1,0 +1,5 @@
+Wand
+twython
+wget
+Pillow
+PyPDF2
