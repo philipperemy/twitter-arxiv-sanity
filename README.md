@@ -2,4 +2,4 @@
 
 <img src='img/1280px-ArXiv_web.svg.png' height='100'></img>
 
-Bot deployed at: https://twitter.com/ArxivSanityHype
+Deployed at: [@ArxivSanityHype](https://twitter.com/ArxivSanityHype)
